@@ -11,7 +11,7 @@ album:
 ---
 
 
-Permettetemi di rivolgere, a nome dell’Associazione e a mio proprio, un sincero e vivo ringraziamento a tutti quanti voi per aver partecipato alla condivisione di quella giornata di solidarietà dedicata ai bambini della scuola di Bukinga nella regione di Gitega in  Burundi. Non trovo le parole giuste per ringraziarvi! Voglio esprimere anche un sentimento di riconoscenza e di gratitudine anche a quelli che non sono riusciti ad esserci ma che comunque ci hanno sostenuto in vari modi. Tutti voi avete acceso la speranza in tanti bambini bisognosi, tenendoli per mano nel percorso della ricerca di una vita migliore.
+Permettetemi di rivolgere, a nome dell’Associazione e a mio proprio, un sincero e vivo ringraziamento a tutti quanti voi per aver partecipato alla condivisione della [giornata di solidarietà dedicata ai bambini della scuola di Bukinga nella regione di Gitega in  Burundi]({% post_url 2014-02-13-invito-evento %}). Non trovo le parole giuste per ringraziarvi! Voglio esprimere anche un sentimento di riconoscenza e di gratitudine anche a quelli che non sono riusciti ad esserci ma che comunque ci hanno sostenuto in vari modi. Tutti voi avete acceso la speranza in tanti bambini bisognosi, tenendoli per mano nel percorso della ricerca di una vita migliore.
 
 Desidero comunicarvi che per l’evento abbiamo raccolto **1.586,90 euro** a fronte delle spese sostenute per organizzare questo evento di **855,37 euro**.
 
@@ -40,6 +40,8 @@ All’intera Comunità italiana per la sua ospitalità, vi siamo grati in tutti 
 
 Grazie e grazie ancora per la carica, l’entusiasmo e il senso di vita che ci avete dato. Grazie, grazie a Tutti Voi.
 
+
 Per la PRONABU Onlus
+
 NYEDETSE Celestine, Presidentessa
 

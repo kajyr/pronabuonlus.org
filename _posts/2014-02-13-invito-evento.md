@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Invito per l'evento
-date:   2014-02-13 23:17:00
+date:   2014-02-13 22:17:00
 permalink: /invito-evento/
 summary: L’associazione PRONABU ONLUS Organizza dalle 12.30 del 16 febbraio 2014 il primo evento di beneficenza della nostra Associazione, che ha come scopo primario l’assistenza ai bambini ed alle donne.
 image_slider: /static/invito-evento/PROGRAMMA-1.jpg
