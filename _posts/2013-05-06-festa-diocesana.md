@@ -5,6 +5,9 @@ date:   2013-05-06 21:56:28
 permalink: /festa-diocesana-della-famiglia-della-scuola-cattolica/
 summary: Questa domenica il 5/5/2013 c’è stata La Festa Diocesana di Roma della Famiglia e della Scuola Cattolica al Santuario Della Madonna del Divino Amore. Una esperienza bella, gente bella!!!
 image_slider: /static/festa-diocesana/festadivinoamore_cover.jpg
+album:
+  id: 5875183782469214433
+  cta: Guarda qua tutte le foto della giornata
 ---
 
 
@@ -25,4 +28,3 @@ Abbiamo presentato i due progetti :
 
 I ringraziamenti vanno agli organizzatori che ci hanno dato questa opportunità e ai tanti sostenitori dei nostri progetti.
 
-[Guarda qua tutte le foto della giornata](https://plus.google.com/photos/+PronabuonlusOrg/albums/5875183782469214433)

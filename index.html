@@ -43,14 +43,14 @@ layout: default
 		<!-- Three columns of text below the carousel -->
 		<div class="row">
 		{% for post in site.posts limit:3 offset:1 %}
-			<div class="col-lg-4">
+			<div class="col-md-4">
 				<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
 				<h2>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 				</h2>
 				<p>{{ post.summary }}</p>
 				<p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" role="button">Leggi &raquo;</a></p>
-			</div><!-- /.col-lg-4 -->
+			</div><!-- /.col-md-4 -->
 		{% endfor %}
 		</div><!-- /.row -->
 
