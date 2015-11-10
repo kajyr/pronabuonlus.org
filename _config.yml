@@ -3,7 +3,7 @@ title: Pronabu onlus
 email: pronabuonlus@hotmail.it
 description: Promozione della Donna Narugo in Burundi
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pronabuonlus.org/"
+url: "http://pronabuonlus.org"
 
 # Build settings
 markdown: kramdown
