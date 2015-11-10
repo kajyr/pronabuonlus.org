@@ -1,0 +1,25 @@
+---
+- name: Contro i tetti della morte
+  publish: yes
+  image: smaltimento_eternit.jpg
+  description: >
+    Contro i tetti della morte è un progetto per l’eliminazione dell’eternit nelle case e nelle strutture
+    sociali.
+
+- name: Accettami
+  publish: yes
+  image: 327_1burundi__children.jpg
+  description: >
+    ACCETTAMI, SONO UGUALE A TE
+    Costruzione di case per l'etnia TWA (in burundi) che sono
+    ghettizzati ed emarginati da sempre: vengono tenuti ai margini della società e vivono nelle capanne.
+
+- name: A salvaguardia delle detenute ospedaliere
+  publish: yes
+  image: cropped-african-woman-with-child2.jpg
+  description: >
+    Progetto di raccolta fondi per liberare le Donne in Burundi
+    prigioniere negli ospedali dato che non riescono a pagare le cure ricevute,
+    sono tenute rinchiuse e ogni giorno che passano in ospedale aumenta il loro debito.
+    Molte altre donne non si fanno curare per non essere umiliati dato che non possono
+    sostenere economicamente le cure.

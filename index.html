@@ -59,20 +59,19 @@ layout: default
 
 
 
-	{% for post in site.posts limit:3 offset:3 %}
+	{% for project in site.data.projects %}
 	{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 
 	<hr class="featurette-divider">
 	<article class="row featurette">
 		<div class="col-md-7 {% if thecycle == 'even' %}col-md-push-5{% endif %}">
 			<h2 class="featurette-heading">
-				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				{{ project.name }}
 			</h2>
-			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-			<p class="lead">{{ post.summary }}</p>
+			<p class="lead">{{ project.description }}</p>
 		</div>
 		<div class="col-md-5 {% if thecycle == 'even' %}col-md-pull-7{% endif %}">
-			<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+			<img class="featurette-image img-responsive center-block" src="/static/progetti/{{ project.image }}" alt="{{ project.name }}">
 		</div>
 	</article>
 
