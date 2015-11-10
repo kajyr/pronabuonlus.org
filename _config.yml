@@ -1,11 +1,9 @@
 # Site settings
 title: Pronabu onlus
-email: carlo.panzi@gmail.com
-description: Promozione della Donna Narugo in Burundi 
+email: pronabuonlus@hotmail.it
+description: Promozione della Donna Narugo in Burundi
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pronabuonlus.org/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://pronabuonlus.org/"
 
 # Build settings
 markdown: kramdown

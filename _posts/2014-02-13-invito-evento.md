@@ -38,19 +38,11 @@ antipasto a buffet; primi: lasagne, riso cep, riso pirau; secondi: torte di verd
 
 
 
-
-
-
-
 E’ gradita la conferma.
 
 
 
 Vi aspettiamo
-
-
-
-
 
 
 
