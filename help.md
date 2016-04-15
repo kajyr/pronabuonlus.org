@@ -7,6 +7,7 @@ permalink: /dai-una-mano/
 Le donazioni a sostegno delle nostre iniziative si possono fare:
 
 Tramite bonifico:
+
 + IBAN per l'Italia: IT93 L033 5901 6001 0000 0073 295
 + IBAN per l'estero: IT93 L033 5901 6001 0000 0073 2952
 
