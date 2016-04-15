@@ -4,16 +4,17 @@ layout: default
 
 <section id="posts">
 	
+		
 		{% for post in site.posts %}
-		<div class="row">
+		{% cycle 'add rows': '<div class="row">', nil, nil %}
 		<article class="col-md-4">
-			<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
 			<h2>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 			</h2>
 			<p>{{ post.summary }}</p>
 			<p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" role="button">Leggi &raquo;</a></p>
 		</article><!-- /.col-md-4 -->
-		</div><!-- /.row -->
+		{% cycle 'close rows': nil, nil, '</div>' %}
 		{% endfor %}
+
 </section>
