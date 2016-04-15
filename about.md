@@ -15,10 +15,13 @@ Siamo un gruppo di Donne che diverse per esperienze personali, culturali e polit
 3. Reintegrare le ragazze-madri nelle scuole dato che sono ripudiate sia dalla famiglia che dalle strutture scolastiche.
 4. Garantire l' istruzione per le scuole,elementari,medie,superiori, mandando materiali scolastici o aiutando le famiglie ad acquistarli.
 5. Adozione a distanza per i bambini indigenti e orfani
-6. Costruzione di case per l'etnia TWA che sono ghettizzate ed emarginate da sempre.
+6. Costruzione di case per l'etnia [TWA][twa] che sono ghettizzate ed emarginate da sempre.
 
 Questo paese sta cercando con fatica e determinazione di lasciare alle spalle l'eredità di 10 anni di guerra civile e vogliamo in prima linea partecipare alla ricostruzione di un futuro migliore e duraturo per gli emarginati.
 
 Vogliamo far conoscere questo paese invisibile, le sue problematiche ma anche i suoi pregi e far conoscere i nostri progetti per migliorare le condizioni di vita di Donne e Bambini in tutto il mondo. Insomma, vogliamo far conoscere questo popolo che tanti non conoscono o lo conoscono nel modo peggiore possibile per i fatti negativi de lontano 1994 e vogliamo sensibilizzare alcune problematiche che sono comuni a tanti. Resto a Vostra disposizione per qualsiasi approfondimento.
 
 Vi ringrazio per la Vostra attenzione.
+
+
+[twa]: https://it.wikipedia.org/wiki/Twa

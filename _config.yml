@@ -5,10 +5,20 @@ description: Promozione della Donna Narugo in Burundi
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pronabuonlus.org"
 
+social:
+  facebook: https://www.facebook.com/groups/pronabuonlus
+  
 # Build settings
 markdown: kramdown
 
 
 
-#dev settings
+# dev settings
 port: 4444
+
+# Costants
+iban:
+  italy: IT93 L033 5901 6001 0000 0073 295
+  estero: IT93 L033 5901 6001 0000 0073 2952
+cf: 97739500581
+cell: 333 6363093

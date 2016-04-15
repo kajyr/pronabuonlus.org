@@ -8,8 +8,8 @@ Grazie di essere passato a trovarci!
 
 Se vuoi contattarci questi sono i nostri indirizzi:
 
-+ Celestine – tel: 333 6363093
-+ email: [pronabuonlus@hotmail.it](mailto:pronabuonlus@hotmail.it)
-+ Codice fiscale: 97739500581
-+ IBAN: IT93 L033 5901 6001 0000 0073 295
-+ [facebook](https://www.facebook.com/groups/pronabuonlus)
++ Celestine – tel: {{ site.cell }}
++ email: [{{ site.email }}](mailto:{{ site.email }})
++ Codice fiscale: {{ site.cf }}
++ IBAN: {{ site.iban.italy }}
++ [Facebook]({{ site.social.facebook }})

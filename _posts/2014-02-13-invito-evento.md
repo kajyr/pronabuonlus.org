@@ -46,8 +46,8 @@ Vi aspettiamo
 
 
 
-Informazione e prenotazioni Celestine   cell: 3336363093
+Informazione e prenotazioni Celestine - cell: {{ site.cell }}
 
 
 
-Email: pronabuonlus@hotmail.it
+Email: {{ site.email }}
