@@ -7,12 +7,11 @@ summary: PRONABU Onlus (Promozione della Donna-Narugo in Burundi Onlus) è lieta
 image_slider: /static/convegno-sul-burundi/cover.jpg
 ---
 
-L'associazione Pronabu onlus - Promozione della Donna Narugo in Burundi è lieta di invitarvi al convegno **"DONNA E DEMOCRAZIA: la lunga marcia verso la pace in Burundi"**.
+L'associazione Pronabu onlus - Promozione della Donna Narugo in Burundi con la collaborazione Municipio Roma IX Eur è lieta di invitarvi al convegno sulla situazione del Burundi **"DONNA E DEMOCRAZIA: la lunga marcia verso la pace in Burundi"**.
  
-Sotto troverete il deplian. 
-Vi aspettiamo nella **Sala culturale Elsa Morante**, Piazzale Elsa Morante 91, Municipio 9, Laurentina.
+Sotto troverete il deplian.
 
-Il centro culturale è raggiungibile attraverso le linee ATC 723 e 776 (scendere due fermate dopo l’ottavo ponte), entrambe collegate alla fermata della metropolitana Laurentina – LINEA B.
+Vi aspettiamo al **Centro culturale Elsa Morante al Laurentino Via Guido da Verona, Municipio IX, Laurentina**. Il centro culturale è raggiungibile attraverso le linee ATC 723 e 776 (fermata seconda dopo l’ottavo ponte); entrambe collegate alla fermata della metropolitana Laurentina – LINEA B.
 
 ![Ecco il volantino dell'evento][volantino]
 
