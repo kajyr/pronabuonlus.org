@@ -3,7 +3,7 @@ layout: post
 title:  "Sabato 16 aprile - Convegno sul Burundi"
 date:   2016-04-10 08:00:00
 permalink: /convegno-sul-burundi/
-summary: PRONABU Onlus (Promozione della Donna-Narugo in Burundi Onlus) è lieta di invitarvi al convegno "DONNA E DEMOCRAZIA la lunga marcia verso la pace in Burundi".
+summary: PRONABU Onlus con la collaborazione Municipio Roma IX Eur è lieta di invitarvi al convegno DONNA E DEMOCRAZIA la lunga marcia verso la pace in Burundi.
 image_slider: /static/convegno-sul-burundi/cover.jpg
 ---
 
