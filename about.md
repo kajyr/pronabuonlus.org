@@ -4,11 +4,13 @@ title: Chi siamo
 permalink: /chi-siamo/
 ---
 
-Sono Celestine, sono la Presidente di una Associazione Onlus appena nata denominata PRONABU Onlus (Promozione della Donna Narugo in Burundi). L'Associazione ha la sede a Vitinia presso la Parrocchia Sacro Cuore di Gesù Agonizzante.
+Sono Celestine, sono la Presidente di una Associazione Onlus appena nata denominata PRONABU Onlus (Promozione della Donna Narugo in Burundi). 
+
+L'Associazione ha la sede a Vitinia presso la Parrocchia Sacro Cuore di Gesù Agonizzante.
 
 Il nostro obbiettivo principale é di intervenire e sostenere le categorie più deboli in particolare Donne e Bambini in tutto il mondo anche se in questo momento stiamo organizzando progetti in Burundi.
 
-Siamo un gruppo di Donne che diverse per esperienze personali, culturali e politiche hanno trovato forti motivazioni ad approfondire la riflessione sulla condizioni delle nostre Madri ,Sorelle, Amiche e Conoscenti in difficoltà. In questo impegno abbiamo sostegno anche dai nostri mariti e amici per dare una voce a chi non ha. I progetti che siamo promuovendo in questo momento sono:
+Siamo un gruppo di Donne che diverse per esperienze personali, culturali e politiche hanno trovato forti motivazioni ad approfondire la riflessione sulla condizioni delle nostre Madri, Sorelle, Amiche e Conoscenti in difficoltà. In questo impegno abbiamo sostegno anche dai nostri mariti e amici per dare una voce a chi non ha. I progetti che siamo promuovendo in questo momento sono:
 
 1. Liberare le Donne in Burundi prigioniere negli ospedali dato che non riescono a pagare le cure ricevute in ospedale, sono tenute rinchiuse e ogni giorno che passano in ospedale aumenta il loro debito.
 2. Reperire i mezzi di soccorso per domare gli incendi che stanno devastando il Burundi
